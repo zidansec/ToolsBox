@@ -20,6 +20,9 @@ https://github.com/zidansec/ToolsBox
 cd ToolsBox
 ```
 ```
+chmod +x toolsbox
+```
+```
 ./toolsbox
 ```
 
